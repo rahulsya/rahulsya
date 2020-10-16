@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**rahulsya/rahulsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  I’m currently expoloring about react and node
+- 🌱  I’m currently learning react.
+- ⏳   Next learning svelte .
+- 📫  How to reach me: rahulsyaban666@gmail.com
+- ⚡ Fun fact: idk
+
+My project
+### [GoGarden](https://gogarden.netlify.app/) 
+web about selling package gardening 
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+### [WebGallery](https://darwinantariksa.netlify.app/) 
+web about gallery photo from a photographer 
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
