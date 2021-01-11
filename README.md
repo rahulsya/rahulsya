@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 - 🌱  I’m currently learning react.
 - ⏳   Next learning svelte .
 - 📫  How to reach me: rahulsyaban666@gmail.com
-- ⚡ Fun fact: idk
+
+![gif_anime](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 
 ### My Project
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
