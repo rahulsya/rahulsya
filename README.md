@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭  I’m currently exploring about react and node
-- 🌱  I’m currently learning react.
-- ⏳   Next learning svelte .
-- 📫  How to reach me: rahulsyaban666@gmail.com
-
 ### My Project / Portfolio
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
